@@ -7,7 +7,7 @@ $con = mysqli_connect("localhost", "root", "", "myhmsdb");
 $_SESSION['doctor_id'] = "DOC123";
 $_SESSION['doctor_name'] = "Dr. John Doe";
 $_SESSION['doctor_email'] = "dr.john@example.com";
-$_SESSION['specialization'] = "Cardiology";
+$_SESSION['specialization'] = "Cardioloogy";
 ?>
 <html lang="en">
 <head>
